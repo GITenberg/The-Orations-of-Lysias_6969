@@ -1,0 +1,31 @@
+_repo: The-Orations-of-Lysias_6969
+creator:
+  author:
+    agent_name: Lysias
+    aliases:
+    - Lisias
+    - Lusias
+    birthdate: -445
+    deathdate: -380
+    gutenberg_agent_id: '2281'
+    url: http://www.gutenberg.org/2009/agents/2281
+    wikipedia: http://en.wikipedia.org/wiki/Lysias
+description: Cover -- Contents.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Speeches, addresses, etc., Greek -- Translations into English'
+tableOfContents: Funeral oration -- For Callias -- The olive tree -- Polyaenus --
+  Theomnestus -- Eratosthenes -- Agoratus -- Alcibiades -- Matitheus -- Property of
+  Eraton -- Property of Aristophanes -- The grain dealers -- Pancleon -- The cripple
+  -- Reply to "The overthrow of this democracy" -- Ergocles -- Nicomachus -- Against
+  Philon -- Diogeiton -- Panegyric.
+title: The Orations of Lysias
+url: http://www.gutenberg.org/ebooks/6969
